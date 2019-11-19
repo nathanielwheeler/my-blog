@@ -1,6 +1,6 @@
 namespace Journal.Models
 {
-	public class Post
+	public class Post : IPost
 	{
 
 	}
